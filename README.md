@@ -1,6 +1,6 @@
 ### Hello world, I'm Baur👋🏽👨🏽‍💻
 
-📲 I am interested in **iOS development** and I want to build great mobile apps with a technologies I am passionate about:
+📲 Motivated and passionate entry-level iOS developer eager to create innovative mobile apps 
 
 ⚒ **Swift / Xcode / UIKit / CocoaPods / Realm**
 
