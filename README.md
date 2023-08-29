@@ -1,7 +1,5 @@
 ### Hello world, I'm Baur👋🏽👨🏽‍💻
 
-📲 Motivated and passionate entry-level iOS developer eager to create innovative mobile apps 
-
 ⚒ **Swift / Xcode / UIKit / CocoaPods / Realm**
 
 <a href="https://linkedin.com/in/baurrm" target="_blank">
