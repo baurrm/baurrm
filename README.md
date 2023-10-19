@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="left">🫡   About Me</h3>
+<h3 align="left">👨🏽‍💻   About Me</h3>
 
 ###
 
-<p align="left">My name is Baur✨<br><br>- 👨🏽‍💻 iOS Developer<br>- 📚 MSc in Applied Computer Science @WUST<br>- 🇰🇿 From Kazakhstan</p>
+<p align="left">My name is Baur✨<br><br>- 📲 Mobile Development Enthusiast, iOS<br>- 📚 MSc in Applied Computer Science @WUST<br>- 🇰🇿 From Kazakhstan</p>
 
 ###
 
