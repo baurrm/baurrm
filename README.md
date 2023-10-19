@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">My name is Baur✨<br><br>- 👨🏽‍💻 iOS Developer<br>- 📚 Master in Applied Computer Science @WUST<br>- 🇰🇿 From Kazakhstan</p>
+<p align="left">My name is Baur✨<br><br>- 👨🏽‍💻 iOS Developer<br>- 📚 MSc in Applied Computer Science @WUST<br>- 🇰🇿 From Kazakhstan</p>
 
 ###
 
